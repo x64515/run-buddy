@@ -1,0 +1,29 @@
+.hero {
+  background-position: bottom;
+  height: auto;
+  text-align: center;
+  margin-bottom: 40px;
+}
+  
+  /* these two colors will override the ones above in .hero */
+  .hero-secondary {
+    background-color: black;
+    color: red;
+  }
+  .page-title{
+    color: #cfe138;
+    display:inline-block;
+    border-bottom: 4px solid #cfe138;
+    padding: 0 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+.secondary-content{
+  width: 80%;
+  margin:5px 0 15px 0;
+
+
+
+
+}
